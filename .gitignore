@@ -1,0 +1,11 @@
+.env
+*.key
+*.pem
+node_modules/
+.venv/
+build/
+dist/
+.claude/worktrees/
+.DS_Store
+# personal copies of purchased books, never commit
+private/
